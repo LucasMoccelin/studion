@@ -1,2 +1,5 @@
 node_modules/
 cmdstst
+_design 
+
+deno, node, git, jquery, javascript
